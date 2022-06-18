@@ -29,8 +29,8 @@ button:hover {
   border: 1px solid gray;
   border-radius: 10px;  
   font-size:80px;
-  background-color: hsl(210, 73%, 30%);
-  color: white;
+  background-color: white;
+  color: black;
   text-align: center;
 }
 
